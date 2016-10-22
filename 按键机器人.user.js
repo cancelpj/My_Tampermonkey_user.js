@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         按键机器人
-// @namespace    https://gist.github.com/cancelpj/b9e372928982c173ac76adc7df8c9051
+// @namespace    https://github.com/cancelpj/My_Tampermonkey_user.js
 // @version      2016.10.22.1
 // @description  定时模拟点击页面按钮。因 GM 无法存储数组，故只能在脚本中自行添加页面地址、按钮实例、刷新时间（分钟）。
 // @author       Peng Sir（QQ：9997452）
